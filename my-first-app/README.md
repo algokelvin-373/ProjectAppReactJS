@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+# `How to Create New Apps React.js`
+-----------------------------------
+Step 1: `npx create-react-app [name-app]` -> Wait until done create project
+Step 2: `cd [name-app]`
+Step 3: `npm start`
+-----------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
